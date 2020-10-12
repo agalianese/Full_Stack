@@ -1,0 +1,12 @@
+com\sg\monstersightings\Entities\Monster.class
+com\sg\monstersightings\Entities\Power.class
+com\sg\monstersightings\Repositories\PowerRepository.class
+com\sg\monstersightings\Entities\Organization.class
+com\sg\monstersightings\MonsterApp.class
+com\sg\monstersightings\Controller\MainController.class
+com\sg\monstersightings\Entities\Sighting.class
+com\sg\monstersightings\Repositories\LocationRepository.class
+com\sg\monstersightings\Repositories\OrganizationRepository.class
+com\sg\monstersightings\Repositories\SightingRepository.class
+com\sg\monstersightings\Entities\Location.class
+com\sg\monstersightings\Repositories\MonsterRepository.class
