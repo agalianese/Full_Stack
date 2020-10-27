@@ -7,3 +7,7 @@ Monster Sighting is a Spring Boot Full Stack Monster Sighting App using Thymelea
 
 ### Hangman
 Hangman is a game in C++ where the computer generates a word, while the user tries to guess it by suggesting letters within a certain number of guesses. Here, the user is given 6 wrong guesses, with a turn ending only when they guess a wrong answer. 
+
+
+### SQLQueries
+This is code with examples of some SQL Queries. The problems and datasets from LinkedIn Learning's <i>SQL Code Challenges</i> found at https://www.linkedin.com/learning/sql-code-challenges
