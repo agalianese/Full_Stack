@@ -1,0 +1,56 @@
+.row { 
+  display: flex;
+  width: 100%;
+}
+
+.answer {
+  text-transform: uppercase;
+  letter-spacing: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: darker;
+  font-size: 4em;
+  background-color: #ffffff;
+  color:  #000000;
+}
+
+.display-img {
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: darker;
+  background-color: #ffffff;
+  color:  #000000;
+  flex: 1;   
+}
+
+.btn:hover {
+  background-color: mediumorchid;
+}
+
+.btn {
+  font-size: 1.4rem;
+  width: 3rem;
+  margin: 18px 8px 10px 13px;
+  text-transform: uppercase;
+  align-items: center;
+  font-weight: lighter;
+  background-color: purple;
+  color: white;
+  flex: 1;
+  outline: 1px solid #000000;    
+}
+
+.clicked {
+  font-size: 1.4rem;
+  width: 3rem;
+  margin: 18px 8px 10px 13px;
+  text-transform: uppercase;
+  align-items: center;
+  font-weight: lighter;
+  background-color:  mediumorchid;
+  color: white;
+  flex: 1;
+  outline: 1px solid #000000;    
+}
