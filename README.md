@@ -6,7 +6,7 @@ Monster Sighting is a Spring Boot Full Stack Monster Sighting App using Thymelea
 
 
 ### Hangman
-Hangman is a game in C++ where the computer generates a word, while the user tries to guess it by suggesting letters within a certain number of guesses. Here, the user is given 6 wrong guesses, with a turn ending only when they guess a wrong answer. 
+Hangman is a game using React.js, HTML, and CSS where the computer generates a word, while the user tries to guess it by suggesting letters within a certain number of guesses. Here, the user is given 9 chances to correctly guess the word. 
 
 
 ### SQLQueries
